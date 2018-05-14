@@ -1,0 +1,8 @@
+{
+  "name": "canvasLearn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xiaofuyesnew/canvasLearn.git",
+  "author": "xiaofuyesnew <xiaofuyesnew@qq.com>",
+  "license": "MIT"
+}
